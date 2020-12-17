@@ -49,7 +49,6 @@
   border-right: 70px solid transparent;
   border-bottom: 120px solid #35495e;
 }
-
 .Triangle--four {
   top: 120px;
   left: 70px;
